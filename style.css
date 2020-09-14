@@ -1,0 +1,157 @@
+body{
+    margin:0;
+}
+.top-container{
+    background: linear-gradient(to left,yellow,red);
+    text-align: center;
+    padding: 80px;
+
+}
+.college{
+    margin: 0;
+}
+
+p{
+    padding-top:30px;
+    font-weight:bold;
+}
+
+hr{
+    border-width: 2px;
+    margin:0;
+    border-style: dashed;
+}
+.mon-div{
+    background-color: #0bb8b8;
+    height: 45%;
+    padding:40px;
+    padding-top: 20px;
+}
+.mon{
+   font-size:150px;
+   margin:0;
+   display: inline-block;
+   color: black;
+}
+.mon-image{
+    width: 17%;
+    position: relative;
+    left: 220px;
+}
+.mon-image{
+    background: url("/image/college-images.jpg") no-repeat;
+}
+.a{
+    text-decoration: none;
+}
+.mon:hover{
+    color:#e7dfd5;
+}
+.tues:hover{
+    color:#e7dfd5;
+}
+.wed:hover{
+    color:#e7dfd5;
+}
+.thurs:hover{
+    color:#e7dfd5;
+}
+.fri:hover{
+    color:#e7dfd5;
+}
+.sat:hover{
+    color:#e7dfd5;
+}
+.tues-div{
+    background-color:#c70039;
+    height: 45%;
+    padding:40px;
+    padding-top: 0px;
+}
+.tues{
+    font-size: 130px;
+    display: inline-block;
+    color: black;
+    margin: 20px 0;
+}
+.tues-image{
+    width:18%;
+    position:relative;
+    left:220px;
+    top:30px;
+}
+.wed-div{
+    background-color: #f37121;
+    height: 45%;
+    padding: 40px;
+    padding-top:0px;
+}
+.wed{
+    font-size:130px;
+    display: inline-block;
+    color: black;
+    margin:20px 0;
+}
+.wed-image{
+    width: 18%;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+.thurs-div{
+    background-color: #ffbd69;
+    height: 45%;
+    padding: 40px;
+    padding-top: 0px;
+}
+.thurs{
+    font-size:130px;
+    display: inline-block;
+    color:black;
+    margin:20px 0;
+}
+.thurs-image{
+    width:18%;
+    position: relative;
+    left:220px;
+    top: 30px;
+}
+.fri-div{
+    background-color: #cbaf87;
+    height:45%;
+    padding:40px;
+    padding-top:0px;
+}
+.fri{
+    font-size:130px;
+    display: inline-block;
+    color:black;
+    margin:20px 0;
+}
+.fri-image{
+    width:18%;
+    position: relative;
+    left:320px;
+    top: 30px;
+}
+.sat-div{
+    background-color: #64958f;
+    height:45%;
+    padding:40px;
+    padding-top:0px;
+}
+.sat{
+    font-size:130px;
+    display: inline-block;
+    color:black;
+    margin:20px 0;
+}
+.sat-image{
+    width:18%;
+    position: relative;
+    left:220px;
+    top: 30px;
+}
+
+
+
